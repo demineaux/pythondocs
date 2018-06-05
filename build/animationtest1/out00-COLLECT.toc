@@ -1,0 +1,22 @@
+([('animationtest1.exe',
+   'C:\\Users\\demineaux\\Documents\\Python '
+   'Docs\\build\\animationtest1\\animationtest1.exe',
+   'EXECUTABLE'),
+  ('animationtest1.exe.manifest',
+   'C:\\Users\\demineaux\\Documents\\Python '
+   'Docs\\build\\animationtest1\\animationtest1.exe.manifest',
+   'BINARY'),
+  ('python36.dll', 'd:\\python\\python36.dll', 'BINARY'),
+  ('VCRUNTIME140.dll', 'd:\\python\\VCRUNTIME140.dll', 'BINARY'),
+  ('_ssl', 'd:\\python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata', 'd:\\python\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('pyexpat', 'd:\\python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_hashlib', 'd:\\python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('select', 'd:\\python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_bz2', 'd:\\python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_lzma', 'd:\\python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_socket', 'd:\\python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('base_library.zip',
+   'C:\\Users\\demineaux\\Documents\\Python '
+   'Docs\\build\\animationtest1\\base_library.zip',
+   'DATA')],)
