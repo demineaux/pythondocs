@@ -1,0 +1,1 @@
+pyinstaller animationtest1.py

@@ -1,0 +1,3 @@
+Python rectangle syntax
+
+pygame.draw.rect(screen, COLOR, [x, y, length, width])
